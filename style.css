@@ -1,10 +1,7 @@
-background {
-	background-color: #ffe5d1;
-
-}
-
 body { 
+	background-color: #ffe5d1;
 	font-size: 16pt 
+	font-color: white;
 	font-family: "Times New Roman", Times, serif;
 }
 
